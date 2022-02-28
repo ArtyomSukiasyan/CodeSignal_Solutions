@@ -1,1 +1,1 @@
-Every day I solve problems on CodeSignal, I decided to put everything on github, gradually I post several tasks a day until I post all the solved tasks
+Every day I solve tasks on CodeSignal, I decided to put everything on github, gradually I post several tasks a day until I post all the solved tasks
